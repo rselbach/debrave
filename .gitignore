@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+com.brave.Browser.plist
+debrave-backups/
